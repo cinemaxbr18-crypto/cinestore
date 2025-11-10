@@ -4,7 +4,7 @@
     "nome": "Categoria Pou",
     "descricao": "O famoso animal de estimação virtual para care e brys.",
     "link_apk": "https://drive.google.com/uc?export=download&id=1YRmRKleGpNp84kf_T6oTv5NVx4WkSwm0",
-    "icone": "PouAndroid.png",
+    "icone": "png/PouAndroid.png",
     "lesma": "pou"
   },
   {
@@ -12,7 +12,7 @@
     "nome": "Seekee",
     "descricao": "",
     "link_apk": "https://drive.google.com/uc?export=download&id=1oRZea9WymEvcLqvvvwUvpHvjUGXTunAk",
-    "icone": "seekee.png",
+    "icone": "png/seekee.png",
     "lesma": "seekee"
   },
    {
