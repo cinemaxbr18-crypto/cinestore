@@ -169,7 +169,7 @@ async function inicializarDetalhes() {
                     class="btn-download" 
                     target="_blank" 
                     rel="noopener noreferrer"
-                    download="${app.slug}.apk"
+                    download="${app.lesma}.apk" 
                 >
                     ⬇️ Baixar APK
                 </a>
