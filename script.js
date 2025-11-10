@@ -164,7 +164,13 @@ async function inicializarDetalhes() {
             <h1>${app.nome}</h1>
             <p class="descricao">${app.descricao}</p>
             <div class="detalhes-acoes">
-                <a href="${app.link_apk}" class="btn-download" target="_blank" rel="noopener noreferrer">
+                <a 
+                    href="${app.link_apk}" 
+                    class="btn-download" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    download="${app.slug}.apk"
+                >
                     ⬇️ Baixar APK
                 </a>
                 <button 
