@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nome": "Pou",
+    "descricao": "O famoso pet virtual para cuidar e brincar. Diversão garantida em seu celular!",
+    "link_apk": "COLE_AQUI_O_LINK_RAW_DO_POU_APK",
+    "icone": "https://via.placeholder.com/150/FF5733/FFFFFF?text=POU",
+    "slug": "pou-pet-virtual"
+  },
+  {
+    "id": 2,
+    "nome": "Seekee",
+    "descricao": "",
+    "link_apk": "COLE_AQUI_O_LINK_RAW_DO_SEEKEE_APK",
+    "icone": "https://via.placeholder.com/150/33FF57/FFFFFF?text=SEEK",
+    "slug": "seekee-esconde-esconde"
+  },
+  {
+    "id": 3,
+    "nome": "Seu Próximo Jogo/App",
+    "descricao": "",
+    "link_apk": "COLE_AQUI_O_LINK_RAW_DO_SEU_APK_3",
+    "icone": "https://via.placeholder.com/150/3357FF/FFFFFF?text=APP3",
+    "slug": "novo-app"
+  },
+  {
+    "id": 3,
+    "nome": "Seu Próximo Jogo/App",
+    "descricao": "",
+    "link_apk": "COLE_AQUI_O_LINK_RAW_DO_SEU_APK_3",
+    "icone": "https://via.placeholder.com/150/3357FF/FFFFFF?text=APP3",
+    "slug": "novo-app"
+  },
+  {
+    "id": 3,
+    "nome": "Seu Próximo Jogo/App",
+    "descricao": "",
+    "link_apk": "COLE_AQUI_O_LINK_RAW_DO_SEU_APK_3",
+    "icone": "https://via.placeholder.com/150/3357FF/FFFFFF?text=APP3",
+    "slug": "novo-app"
+  },
+  {
+    "id": 3,
+    "nome": "Seu Próximo Jogo/App",
+    "descricao": "",
+    "link_apk": "COLE_AQUI_O_LINK_RAW_DO_SEU_APK_3",
+    "icone": "https://via.placeholder.com/150/3357FF/FFFFFF?text=APP3",
+    "slug": "novo-app"
+  }
+]
