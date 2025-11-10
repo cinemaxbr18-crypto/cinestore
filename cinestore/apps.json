@@ -1,26 +1,18 @@
 [
   {
     "id": 1,
-    "nome": "Pou",
-    "descricao": "O famoso pet virtual para cuidar e brincar. Diversão garantida em seu celular!",
-    "link_apk": "1YRmRKleGpNp84kf_T6oTv5NVx4WkSwm0", 
+    "nome": "Categoria Pou",
+    "descricao": "O famoso animal de estimação virtual para care e brys.",
+    "link_apk": "https://drive.google.com/uc?export=download&id=1YRmRKleGpNp84kf_T6oTv5NVx4WkSwm0",
     "icone": "https://via.placeholder.com/150/FF5733/FFFFFF?text=POU",
-    "slug": "pou-pet-virtual"
+    "lesma": "pou"
   },
   {
     "id": 2,
     "nome": "Seekee",
-    "descricao": "Um divertido jogo de 'esconde-esconde' em 3D. Encontre seus amigos antes que o tempo acabe!",
-    "link_apk": "COLE_O_LINK_DE_DOWNLOAD_DIRETO_DO_SEEKEE_AQUI",
+    "descricao": "",
+    "link_apk": "https://drive.google.com/uc?export=download&id=1oRZea9WymEvcLqvvvwUvpHvjUGXTunAk",
     "icone": "https://via.placeholder.com/150/33FF57/FFFFFF?text=SEEK",
-    "slug": "seekee-esconde-esconde"
-  },
-  {
-    "id": 3,
-    "nome": "Seu Próximo Jogo/App",
-    "descricao": "Adicione aqui a descrição completa do seu aplicativo. Lembre-se de configurar o link de download!",
-    "link_apk": "COLE_O_LINK_DE_DOWNLOAD_DIRETO_DO_SEU_APK_3_AQUI",
-    "icone": "https://via.placeholder.com/150/3357FF/FFFFFF?text=APP3",
-    "slug": "novo-app"
+    "lesma": "seekee"
   }
 ]
